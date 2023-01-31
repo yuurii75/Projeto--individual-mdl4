@@ -13,7 +13,7 @@ R: Os principais campos são ID, NOME, EMAIL e N_MATRICULA. Os tipos são eles r
 
 3 - Como essas entidades são relacionadas?
 
-Alunos matriculam-se em CURSOS
+Alunos matriculam-se em Cursos
 
 Cursos geram Turmas 
 
