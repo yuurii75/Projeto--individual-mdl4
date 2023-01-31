@@ -23,5 +23,5 @@ Turmas  possuem Alunos
 
 Turmas contem Professores
 
-# Extras
+# Extras:
 Script com o código na pasta SQLScript.
