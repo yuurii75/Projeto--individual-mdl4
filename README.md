@@ -22,3 +22,6 @@ Cursos geram Turmas
 Turmas  possuem Alunos
 
 Turmas contem Professores
+
+#Extras
+Script com o código na pasta SQLScript.
