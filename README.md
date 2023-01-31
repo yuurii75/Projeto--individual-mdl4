@@ -1,4 +1,4 @@
-# Projeto-individual mdl4-Banco de dados
+# Projeto-individual mdl4- A Resilia está pensando em lançar um novo sistema de acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
 
 1 - Existem outras entidades além dessas três?
